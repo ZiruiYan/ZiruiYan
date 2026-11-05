@@ -6,7 +6,7 @@ On **Duolingo's Monetization Engine team**, I develop contextual bandit models f
 
 My research focuses on **causal machine learning**, **bandit algorithms**, and **LLM interpretability**. I received my Ph.D. in Electrical, Computer, and Systems Engineering from **Rensselaer Polytechnic Institute**.
 
-[Website & publications](https://ziruiyan.github.io/)
+[Website](https://ziruiyan.github.io/) · [LinkedIn](https://www.linkedin.com/in/zirui-yan-4a142519a/) · [Google Scholar](https://scholar.google.com/citations?user=XXgTWskAAAAJ) · [CV](https://ziruiyan.github.io/assets/cv_en.pdf) · [Email](mailto:ziruiy1808@gmail.com)
 
 ### Contributions
 

@@ -1,6 +1,6 @@
 # Zirui Yan
 
-### AI Research Engineer II at [Duolingo](https://www.duolingo.com/)
+### AI Research Engineer II at <a href="https://www.duolingo.com/"><img src="./assets/duolingo.svg" alt="Duolingo" height="22" align="top" /></a>
 
 On **Duolingo's Monetization Engine team**, I develop contextual bandit models for personalized ads and subscription experiences, bringing sequential decision-making research into production.
 
